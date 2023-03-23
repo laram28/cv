@@ -1,0 +1,39 @@
+/*******************CONTAINERS***************/
+
+.footer-container {
+    background-color: #EAF6F6;
+    text-align: right;
+    padding-top: 20px 0;
+}
+
+/*******************DATES***************/
+.dates {
+    text-align: right;
+    padding-right: 50px;
+}
+
+/*******************HTML***************/
+body {
+    background-color: #EAF6F6;
+    padding: 25px;
+}
+table {
+    width: 100%;
+}
+/*******************TAGS***************/
+a {
+    color: black;
+    font-family: 'Monserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: grey;
+}
+
+/*******************TD***************/
+.info {
+    padding-left: 50px;
+    width: 70%;
+}
